@@ -63,9 +63,7 @@ def sum_to_n? arr, n
       end
       
     end
-    
   end
-  
 end
 
 # Part 2
